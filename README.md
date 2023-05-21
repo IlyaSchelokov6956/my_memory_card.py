@@ -1,1 +1,1 @@
-# my_memory_card.py
+memory_card.py создан для того что бы запоминать вопросы.
